@@ -1,6 +1,6 @@
 # CORS (Cross Origin Resource Sharing)
   This is a policy where a server (domain) allows other trusted domains to access objects (resources) from their server. 
-  Typically these attacks are used to exfiltrate datas. Now, How do we detect and exploit these vulnerabilities? Well I will try my best to explain it.
+  Typically these attacks are used to exfiltrate datas. Now, How do we detect and exploit these vulnerabilities? Well, I will try my best to explain it.
 
   [What is a domain?](https://github.com/Gikyon/BSCP/edit/main/Notes/CORS.ml#what-is-a-domain)\
   [Tell-Tell Sign]()\
